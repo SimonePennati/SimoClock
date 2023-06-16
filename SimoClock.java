@@ -1,5 +1,5 @@
 
-// WELCOME TO SIMOCLOCK 3.1 THE THIRD.1 DIGITAL CLOCK NO ONE EVER NEEDED BUT IT'S HERE ANYWAY!
+// WELCOME TO SIMOCLOCK THE DIGITAL CLOCK NO ONE EVER NEEDED BUT IT'S HERE ANYWAY!
 
 import javax.swing.*;
 import java.awt.*;
@@ -45,7 +45,7 @@ public class SimoClock {
         preferences = Preferences.userRoot().node(this.getClass().getName());
 		
         // Creazione della finestra JFrame
-        frame = new JFrame("SimoClock - The Unnecessary Digital Clock! - v.3.1");
+        frame = new JFrame("SimoClock - The Unnecessary Digital Clock!");
 
         // Creazione delle etichette per l'ora e la data
         timeLabel = new JLabel();
