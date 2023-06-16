@@ -17,7 +17,7 @@ To launch it with dos window hidden:
 # Buttons:
 - Toggle buttons bar, "-"
 - Toggle fullscreen, "**Fs**"
-- Toggle sempre in primo piano, pulsante "**Fg**"
+- Toggle pin on top, "**Fg**"
 - Toggle show seconds, "**Sec**"
 - toggle show data, "**Date**"
 - Toggle show alt date format, "**Alt**"
